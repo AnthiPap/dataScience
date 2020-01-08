@@ -1,7 +1,9 @@
 titanic
 ==============================
 
-titanic data science challenge
+Titanic: Machine Learning from Disaster challenge from Kaggle.
+
+(worked on during the 'Doing Data Science with Python' online course on Plurasight)
 
 Project Organization
 ------------
