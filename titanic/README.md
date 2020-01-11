@@ -5,6 +5,7 @@ titanic data science challenge
 
 Project Organization
 ------------
+Empty files not uploaded here.
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
